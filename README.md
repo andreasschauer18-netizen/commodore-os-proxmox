@@ -6,7 +6,7 @@
 
 **Eine erprobte Installation unter Proxmox VE 9.2.3 – inklusive Lösung für verschwindende Desktop-Elemente.**
 
-![Gestaltete Projekt-Collage zu Commodore OS, Proxmox und Marco](assets/commodore-os-collage.png)
+![Gestaltete Projekt-Collage zu Commodore OS, Proxmox und Marco](assets/retro-collage.png)
 
 <sub>Gestaltete Illustration des Projekts – keine Original-Screenshots der virtuellen Maschine.</sub>
 
